@@ -76,7 +76,7 @@ This is a list of papers about itemset mining method.
 | New Gener. Comput.-2020 |  | Mining high-average utility itemsets with positive and negative external utilities |  | [I. Yildirim](http://dx.doi.org/10.1007/s00354-019-00078-8) | 
 | Big Data-2020 | Top-HUI | TopHUI: Top-k high-utility itemset mining with negative utility | first top-k negative HUIM | [W. Gan](https://ieeexplore.ieee.org/abstract/document/9378288) | 
 |J. Comp. Sci.-2020| | Extracting High Utility Itemset with Positive and Negative Utilities Using High Utility Itemset Mining Algorithm| | [N Umadevi]|
-|J. Intell Syst.-2021 | Mining high utility pattern with negative items in dynamic databases | dynamic databases (first)| [M. Han]|
+|J. Intell Syst.-2021 | | Mining high utility pattern with negative items in dynamic databases | dynamic databases (first)| [M. Han]|
 | 2021| | Mining of High Utility Itemsets with Negative Utility values for Incremental Datasets | Incremental Datasets |[Pushp]| 
 | 2021|TOPIC |TOPIC: Top-k High-Utility Itemset Discovering| | [J. Chen]|
 | INS-2022 | TKN | An efficient approach for discovering top-k high utility itemsets with positive or negative profits |. |[M. Ashraf](https://www.sciencedirect.com/science/article/pii/S0020025521012457)|
