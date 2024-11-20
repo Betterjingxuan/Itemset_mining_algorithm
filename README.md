@@ -18,7 +18,7 @@ This is a list of papers about itemset mining method.
 | CIKM-2012 | HUI-Mine| Mining high utility itemsets without candidate generation |. |[M. Liu](https://doi.org/10.1145/2396761.2396773)|
 | TKDE-2013 | UP-growth+| Efficient algorithms for mining high utility itemsets from transactional databases |. |[V. S. Tseng](https://doi.org/10.1109/tkde.2012.59)|
 | Lect. Notes in Comput. Sci.-2014 |FHM| FHM: Faster highutility itemset mining using estimated utility co-occurrence pruning|. |[P. Fournier-Viger](https://doi.org/10.1007/978-3-319-08326-1_9)|
-| Expert Syst. Appl.-2015 | HUP-Miner| Pruning strategies for mining high utility itemsets |. |[S. Krishnamoorthy](https://doi.org/10.1016/j.eswa.2014.11.001)| 
+| ESWA-2015 | HUP-Miner| Pruning strategies for mining high utility itemsets |. |[S. Krishnamoorthy](https://doi.org/10.1016/j.eswa.2014.11.001)| 
 | TKDE-2016 |d2HUP | Mining high utility patterns in one phase without generating candidates |. |[J. Liu](https://doi.org/10.1109/tkde.2015.2510012.)|
 | Knowl. Inf. Syst-2016 | EFIM | EFIM: a fast and memory efficient algorithm for high-utility itemset mining |. |[S. Zida](https://doi.org/10.1007/s10115-016-0986-0)| 
 | Knowl. Inf. Syst-2016 | IMHUP | Indexed list-based high utility pattern mining with utility upper-bound reduction and pattern combination techniques |. |[H. Ryang](https://dl.acm.org/doi/10.1007/s10115-016-0989-x)| 
@@ -47,7 +47,7 @@ This is a list of papers about itemset mining method.
 | IEEE Access-2018 |  |Tub-haupm: Tighter upper bound for mining high average-utility patterns|. |[J. M.-T. Wu](http://dx.doi.org/10.1109/ACCESS.2018.2820740)|
 | IEEE Access-2019 |  |  An efficient tree-based algorithm for mining high average-utility itemset|. |[I. Yildirim](http://dx.doi.org/10.1109/ACCESS.2019.2945840)|
 | Appl. Intell.-2024 | | Efficient algorithms to mine concise representations of frequent high utility occupancy patterns |. |[H. Duong](http://dx.doi.org/10.1007/s10489-024-05296-2)|
-| ESWA-2022 | | Efficient high-utility occupancy itemset mining algorithm on massive dat |. |[Jingxuan He](https://www.sciencedirect.com/science/article/pii/S0957417422014543c)|
+| ESWA-2022 | SHO | Efficient high-utility occupancy itemset mining algorithm on massive dat |. |[Jingxuan He](https://www.sciencedirect.com/science/article/pii/S0957417422014543c)|
 
 ### 2.4 High-efficiency Itemset Mining 
 | Source |Method | Paper | Description |Links|
