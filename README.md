@@ -61,21 +61,20 @@ This is a list of papers about itemset mining method.
 | --- | --- | --- | --- |--- |
 | Expert Syst-2018 |  | Mining of high-utility itemsets with negative utility |  | [K. Singh](https://doi.org/10.1111/exsy.12296) | 
 | New Gener. Comput.-2020 |  | Mining high-average utility itemsets with positive and negative external utilities |  | [I. Yildirim](http://dx.doi.org/10.1007/s00354-019-00078-8) | 
-| Big Data-2020 | Top-HUI |  |  |  | 
-| INS-2022 | TKN | An efficient approach for discovering top-k high utility itemsets with positive or negative profits |. |[Paper](https://www.sciencedirect.com/science/article/pii/S0020025521012457)|
-| ESWA-2022 | EHMIN | EHMIN Efficient approach of list based high-utility pattern mining with negative utility profit | |[Paper](https://www.sciencedirect.com/science/article/pii/S0957417422013689)|
-| 2022| SMNU |Faster Approximation of Probabilistic and Distributional Values via Least Squares| |[Paper](https://openreview.net/pdf?id=lvSMIsztka)|
-| 2023 | negSPUC | 
+| Big Data-2020 | Top-HUI | TopHUI: Top-k high-utility itemset mining with negative utility | first top-k negative HUIM | [W. Gan](https://ieeexplore.ieee.org/abstract/document/9378288) | 
+| INS-2022 | TKN | An efficient approach for discovering top-k high utility itemsets with positive or negative profits |. |[M. Ashraf](https://www.sciencedirect.com/science/article/pii/S0020025521012457)|
+| ESWA-2022 | EHMIN | EHMIN: Efficient approach of list based high-utility pattern mining with negative utility profit |. |[H. Kim](https://www.sciencedirect.com/science/article/pii/S0957417422013689)|
+|J. Intell. Fuzzy Syst.-2021 | THN | Mining of top-k high utility itemsets with negative utility 
+| 2022| SMNU |Support-Based High Utility Mining with Negative Utility Values|. |[Pushp](https://link.springer.com/chapter/10.1007/978-981-19-0604-6_18)|
+| 2023 | negSPUC | negSPUC: Trees-Based Single-Phase High-Utility Itemset Mining Algorithm with Negative Profit Values |  | [B. Anup. Bhat](https://link.springer.com/book/10.1007/978-981-19-5868-7#page=718)|
 
-## 4.Correlated Itemset Mining 
+## 4.Correlated Itemset Mining  
 | Source |Method | Paper | Description |Links|
 | --- | --- | --- | --- |--- |
 | IEEE Access-2020 |  | Mining correlated high utility itemsets in one phase |. |[B. Vo](http://dx.doi.org/10.1109/ACCESS.2020.2994059)|
 
 
 ## Survey
-| Source | Paper | Description |Links|Code|
-| --- | --- | --- | --- |--- |
-| Nature Machine Intelligence-2022 | Algorithms to estimate Shapley value feature attributions |. |[Paper](https://dl.acm.org/doi/abs/10.1145/3588728)|[code](https://github.com/suinleelab/shapley_algorithms)|
-| IJCAI-2022 | The Shapley Value in Machine Learning |. |[Paper](https://www.ijcai.org/proceedings/2022/0778.pdf)|[code](https://github.com/AstraZeneca/awesome-shapley-value)|
-| Data Mining and Knowledge Discovery-2024 | A comparative study of methods for estimating model-agnostic Shapley value explanations |. |[Paper](https://link.springer.com/content/pdf/10.1007/s10618-024-01016-z.pdf)||
+| Source | Paper | Description |Links|
+| --- | --- | --- | --- |
+| J. Intell. Fuzzy Syst.-2018 | High utility itemsets mining with negative utility value: A survey |. |[K. Singh](https://www.researchgate.net/profile/Kuldeep-Singh-122/publication/328844143_High_utility_itemsets_mining_with_negative_utility_value_A_survey/links/65223d96d717ef1293d69005/High-utility-itemsets-mining-with-negative-utility-value-A-survey.pdf)|
