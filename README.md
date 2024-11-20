@@ -5,7 +5,7 @@ This is a list of papers about itemset mining method.
 
 | Source |Method | Paper | Description |Links|
 | --- | --- | --- | --- |--- |
-| SIGMOD-1993 | - | Mining association rules between sets of items in large databases| |[R. Agrawal](https://doi.org/10.1145/170036.170072)|
+| SIGMOD-1993 | - | Mining association rules between sets of items in large databases| |[R. Agrawal](https://doi.org/10.1145/170036.170072)|
 | ESWA-2014 | - | Fast mining frequent itemsets using nodesets|  | [Z.-H. Deng](http://dx.doi.org/10.1016/j.eswa.2014.01.025) |  
 | Appl. Soft Comput.-2016 | - | DiffNodesets: An efficient structure for fast mining frequent itemsets | | [Z.-H. Deng](https://doi.org/10.1016/j.asoc.2016.01.010) |   
 | SIGMOD-2000 | - | Mining frequent patterns without candidate generation | |[J. Han](http://dx.doi.org/10.1145/335191.335372)|
@@ -19,7 +19,6 @@ This is a list of papers about itemset mining method.
 | TKDE-2013 | | Efficient algorithms for mining high utility itemsets from transactional databases |. |[V. S. Tseng](https://doi.org/10.1109/tkde.2012.59)|
 | Lect. Notes in Comput. Sci.-2014 |FHM| FHM: Faster highutility itemset mining using estimated utility co-occurrence pruning|. |[P. Fournier-Viger](https://doi.org/10.1007/978-3-319-08326-1_9)|
 | ESWA-2015 | | Pruning strategies for mining high utility itemsets |. |[S. Krishnamoorthy](https://doi.org/10.1016/j.eswa.2014.11.001)| 
-
 | TKDE-2016 | | Mining high utility patterns in one phase without generating candidates |. |[J. Liu](https://doi.org/10.1109/tkde.2015.2510012.)|
 | Knowl. Inf. Syst-2016 | EFIM | EFIM: a fast and memory efficient algorithm for high-utility itemset mining |. |[S. Zida](https://doi.org/10.1007/s10115-016-0986-0)| 
 | Knowl. Inf. Syst-2016 |  | Indexed list-based high utility pattern mining with utility upper-bound reduction and pattern combination techniques |. |[H. Ryang](https://dl.acm.org/doi/10.1007/s10115-016-0989-x)| 
