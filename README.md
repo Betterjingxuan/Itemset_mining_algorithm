@@ -14,7 +14,7 @@ This is a list of papers about itemset mining method.
 | Source |Method | Paper | Description |Links|
 | --- | --- | --- | --- |--- |
 | Knowl. Discovery and Data Min.-2005 | | A two-phase algorithm for fast discovery of high utility itemsets |. |[Y. Liu](http://dx.doi.org/10.1007/11430919_79)|
-| SIGKDD-2010 | UP-growth:an efficient algorithm for high utility itemset mining |. |[[V. S. Tseng](https://doi.org/10.1145/1835804.1835839)|
+| SIGKDD-2010 | | UP-growth:an efficient algorithm for high utility itemset mining |. |[[V. S. Tseng](https://doi.org/10.1145/1835804.1835839)|
 | CIKM-2012 | | Mining high utility itemsets without candidate generation |. |[M. Liu](https://doi.org/10.1145/2396761.2396773)|
 | TKDE-2013 | | Efficient algorithms for mining high utility itemsets from transactional databases |. |[V. S. Tseng](https://doi.org/10.1109/tkde.2012.59)|
 | Lect. Notes in Comput. Sci.-2014 |FHM| FHM: Faster highutility itemset mining using estimated utility co-occurrence pruning|. |[P. Fournier-Viger](https://doi.org/10.1007/978-3-319-08326-1_9)|
