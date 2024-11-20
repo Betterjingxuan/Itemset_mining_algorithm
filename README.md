@@ -67,11 +67,18 @@ This is a list of papers about itemset mining method.
 |2015 |UP-GNIV| UP-GNIV: an expeditious high utility pattern mining algorithm for itemsets with negative utility values ||[Kannimuthu Subramanian]|
 |2016 |HUN-Max|Mining High Utility Itemsets with Negative Utility Values in Transactional Databases|| [Priyanka D. Patil]|
 | Knowl. Inf. Syst-2017| KOSHU |An efficient algorithm for mining top-k on-shelf high utility itemsets|top-K on-shelf high utility itemset | [Thu-Lan Dam]|
-|2017| EHUFIM | An Enhanced Algorithm for Retrieving High UtilityFrequent Item Sets with Negative Utility Values|  | [C. Sivamathi]|
-|KBS-2017| GHUM | Efficiently mining high utility itemsets with negative unit profits| utility list | [Srikumar Krishnamoorthy]|
-| Expert Syst-2018 |  | Mining of high-utility itemsets with negative utility |  | [K. Singh](https://doi.org/10.1111/exsy.12296) | 
+|2017| EHUFIM | An Enhanced Algorithm for Retrieving High Utility-Frequent Item Sets with Negative Utility Values|  | [C. Sivamathi]|
+| PAKDD-2017| HUPNU | Mining High-Utility Itemsets with Both Positive and Negative Unit Profits from Uncertain Databases |Uncertain Databases| [W. Gan]
+| TKDE-2018| CHN| CHN: an efficient algorithm for mining closed high utility itemsets with negative utility | closed high utility itemset | [Kuldeep Singh] Retracted. |
+| Expert Syst-2018 | EHIN | Mining of high-utility itemsets with negative utility |  | [K. Singh](https://doi.org/10.1111/exsy.12296) | 
+| KBS-2017| GHUM | Efficiently mining high utility itemsets with negative unit profits| utility list | [Srikumar Krishnamoorthy]|
+| INS-2019| EHNL | EHNL: An efficient algorithm for mining high utility itemsets with negative utility value and length constraints| length constraints | [K. Singh] |
 | New Gener. Comput.-2020 |  | Mining high-average utility itemsets with positive and negative external utilities |  | [I. Yildirim](http://dx.doi.org/10.1007/s00354-019-00078-8) | 
 | Big Data-2020 | Top-HUI | TopHUI: Top-k high-utility itemset mining with negative utility | first top-k negative HUIM | [W. Gan](https://ieeexplore.ieee.org/abstract/document/9378288) | 
+|J. Comp. Sci.-2020| | Extracting High Utility Itemset with Positive and Negative Utilities Using High Utility Itemset Mining Algorithm| | [N Umadevi]|
+|J. Intell Syst.-2021 | Mining high utility pattern with negative items in dynamic databases | dynamic databases (first)| [M. Han]|
+| 2021| | Mining of High Utility Itemsets with Negative Utility values for Incremental Datasets | Incremental Datasets |[Pushp]| 
+| 2021|TOPIC |TOPIC: Top-k High-Utility Itemset Discovering| | [J. Chen]|
 | INS-2022 | TKN | An efficient approach for discovering top-k high utility itemsets with positive or negative profits |. |[M. Ashraf](https://www.sciencedirect.com/science/article/pii/S0020025521012457)|
 | ESWA-2022 | EHMIN | EHMIN: Efficient approach of list based high-utility pattern mining with negative utility profit |. |[H. Kim](https://www.sciencedirect.com/science/article/pii/S0957417422013689)|
 |J. Intell. Fuzzy Syst.-2021 | THN | Mining of top-k high utility itemsets with negative utility |. |[R. Sun](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs201357)|
@@ -88,3 +95,4 @@ This is a list of papers about itemset mining method.
 | Source | Paper | Description |Links|
 | --- | --- | --- | --- |
 | J. Intell. Fuzzy Syst.-2018 | High utility itemsets mining with negative utility value: A survey |. |[K. Singh](https://www.researchgate.net/profile/Kuldeep-Singh-122/publication/328844143_High_utility_itemsets_mining_with_negative_utility_value_A_survey/links/65223d96d717ef1293d69005/High-utility-itemsets-mining-with-negative-utility-value-A-survey.pdf)|
+|2020|Utility Mining Algorithms: A Bird’s Eye View |.| [D. Aarthi]
