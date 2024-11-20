@@ -13,25 +13,25 @@ This is a list of papers about itemset mining method.
 ## 2.High utility itemset mining
 | Source |Method | Paper | Description |Links|
 | --- | --- | --- | --- |--- |
-| Knowl. Discovery and Data Min.-2005 | | A two-phase algorithm for fast discovery of high utility itemsets |. |[Y. Liu](http://dx.doi.org/10.1007/11430919_79)|
-| SIGKDD-2010 | | UP-growth:an efficient algorithm for high utility itemset mining |. |[[V. S. Tseng](https://doi.org/10.1145/1835804.1835839)|
-| CIKM-2012 | | Mining high utility itemsets without candidate generation |. |[M. Liu](https://doi.org/10.1145/2396761.2396773)|
-| TKDE-2013 | | Efficient algorithms for mining high utility itemsets from transactional databases |. |[V. S. Tseng](https://doi.org/10.1109/tkde.2012.59)|
+| PAKDD-2005 | | A two-phase algorithm for fast discovery of high utility itemsets | first two-phase algorithm |[Y. Liu](http://dx.doi.org/10.1007/11430919_79)|
+| SIGKDD-2010 |UP-growth | UP-growth:an efficient algorithm for high utility itemset mining |. |[[V. S. Tseng](https://doi.org/10.1145/1835804.1835839)|
+| CIKM-2012 | HUI-Mine| Mining high utility itemsets without candidate generation |. |[M. Liu](https://doi.org/10.1145/2396761.2396773)|
+| TKDE-2013 | UP-growth+| Efficient algorithms for mining high utility itemsets from transactional databases |. |[V. S. Tseng](https://doi.org/10.1109/tkde.2012.59)|
 | Lect. Notes in Comput. Sci.-2014 |FHM| FHM: Faster highutility itemset mining using estimated utility co-occurrence pruning|. |[P. Fournier-Viger](https://doi.org/10.1007/978-3-319-08326-1_9)|
-| ESWA-2015 | | Pruning strategies for mining high utility itemsets |. |[S. Krishnamoorthy](https://doi.org/10.1016/j.eswa.2014.11.001)| 
-| TKDE-2016 | | Mining high utility patterns in one phase without generating candidates |. |[J. Liu](https://doi.org/10.1109/tkde.2015.2510012.)|
+| Expert Syst. Appl.-2015 | HUP-Miner| Pruning strategies for mining high utility itemsets |. |[S. Krishnamoorthy](https://doi.org/10.1016/j.eswa.2014.11.001)| 
+| TKDE-2016 |d2HUP | Mining high utility patterns in one phase without generating candidates |. |[J. Liu](https://doi.org/10.1109/tkde.2015.2510012.)|
 | Knowl. Inf. Syst-2016 | EFIM | EFIM: a fast and memory efficient algorithm for high-utility itemset mining |. |[S. Zida](https://doi.org/10.1007/s10115-016-0986-0)| 
-| Knowl. Inf. Syst-2016 |  | Indexed list-based high utility pattern mining with utility upper-bound reduction and pattern combination techniques |. |[H. Ryang](https://dl.acm.org/doi/10.1007/s10115-016-0989-x)| 
+| Knowl. Inf. Syst-2016 | IMHUP | Indexed list-based high utility pattern mining with utility upper-bound reduction and pattern combination techniques |. |[H. Ryang](https://dl.acm.org/doi/10.1007/s10115-016-0989-x)| 
 | Knowl. Inf. Syst-2017 | mHUIMiner | mHUIMiner: A fast high utility itemset mining algorithm for sparse datasets |. |[A. Y. Peng](https://doi.org/10.1007/978-3-319-57529-2_16)| 
-| ESWA-2017 | Hminer | Hminer: Efficiently mining high utility itemsets |. |[S. Krishnamoorthy](http://dx.doi.org/10.1016/j.eswa.2017.08.028)|
-| KBS-2022 | Ubp-miner | Ubp-miner: An efficient bit based high utility itemset mining algorithm |. |[P. Wu](http://dx.doi.org/10.1016/j.knosys.2022.108865)|
-| TKDE-2023 |  | Mining high utility itemsets using prefix trees and utility vectors |. |[J.-F. Qu](http://dx.doi.org/10.1109/TKDE.2023.3256126)|
+| ESWA-2017 | HMiner | Hminer: Efficiently mining high utility itemsets |. |[S. Krishnamoorthy](http://dx.doi.org/10.1016/j.eswa.2017.08.028)|
+| KBS-2022 | UBP-Miner | Ubp-miner: An efficient bit based high utility itemset mining algorithm |. |[P. Wu](http://dx.doi.org/10.1016/j.knosys.2022.108865)|
+| TKDE-2023 | Hamm | Mining high utility itemsets using prefix trees and utility vectors |. |[J.-F. Qu](http://dx.doi.org/10.1109/TKDE.2023.3256126)|
 | TKDE-2024 |  | Efficient high utility itemset mining without the join operation |. |[Y. Yan](http://dx.doi.org/10.1016/j.ins.2024.121218)|
 
 ### 2.1 Dynamic and Incremental Databases
 | Source |Method | Paper | Description |Links|
 | --- | --- | --- | --- |--- |
-| KBS-2019 | | Mining high-utility itemsets in dynamic profit databases |. |[L. T. Nguyen](http://dx.doi.org/10.1016/j.knosys.2019.03.022)|
+| KBS-2019 |iMEFIM| Mining high-utility itemsets in dynamic profit databases |. |[L. T. Nguyen](http://dx.doi.org/10.1016/j.knosys.2019.03.022)|
 | KBS-2023 |  |Efficient approach for mining high-utility patterns on incremental databases with dynamic profits |.| [S. Kim](http://dx.doi.org/10.1016/j.knosys.2023.111060)|
 | DSE-2023 |  |A reinduction-based approach for efficient high utility itemset mining from incremental datasets|.| [P. Sra](http://dx.doi.org/10.1007/s41019-023-00229-4)|
 | IEEE Access-2024 |  | Incremental top-k high utility pattern mining and analyzing over the entire accumulated dynamic database|. |[C. Lee](http://dx.doi.org/10.1109/ACCESS.2024.3406562)|
@@ -47,7 +47,7 @@ This is a list of papers about itemset mining method.
 | IEEE Access-2018 |  |Tub-haupm: Tighter upper bound for mining high average-utility patterns|. |[J. M.-T. Wu](http://dx.doi.org/10.1109/ACCESS.2018.2820740)|
 | IEEE Access-2019 |  |  An efficient tree-based algorithm for mining high average-utility itemset|. |[I. Yildirim](http://dx.doi.org/10.1109/ACCESS.2019.2945840)|
 | Appl. Intell.-2024 | | Efficient algorithms to mine concise representations of frequent high utility occupancy patterns |. |[H. Duong](http://dx.doi.org/10.1007/s10489-024-05296-2)|
-
+| ESWA-2022 | | Efficient high-utility occupancy itemset mining algorithm on massive dat |. |[Jingxuan He](https://www.sciencedirect.com/science/article/pii/S0957417422014543c)|
 
 ### 2.4 High-efficiency Itemset Mining 
 | Source |Method | Paper | Description |Links|
