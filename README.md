@@ -59,12 +59,19 @@ This is a list of papers about itemset mining method.
 ## 3. Negative itemset mining
 | Source |Method | Paper | Description |Links|
 | --- | --- | --- | --- |--- |
+| Appl Math Comput.-2009 |HUINIV| An efficient algorithm for mining high utility itemsets with negative item values in large databases | first negative HUIM |[C. Chu](https://www.sciencedirect.com/science/article/pii/S009630030900561X) | 
+| Knowl. Inf. Syst-2011 | MHUI-BIT & MHUI-TID | Fast and memory efficient mining of high-utility itemsets from data streams: with and without negative item profits | mining high-utility itemsets from data streams | [K. Singh] | 
+| ESWA-2014 |TS-HOUN| On-shelf utility mining with negative item values| On-shelf utility mining | [Guo-Cheng Lan] |
+|2016-KBS |FHN | FHN: Efficient Mining of High-Utility Itemsets with Negative Unit Profits | | [Philippe Fournier-Viger]|
+|2015 |FOSHU|FOSHU: Faster On-Shelf High Utility Itemset Mining with or without Negative Unit Profit |  | [Philippe Fournier-Viger]|
+|2015 |UP-GNIV| UP-GNIV: an expeditious high utility pattern mining algorithm for itemsets with negative utility values ||[Kannimuthu Subramanian]|
+
 | Expert Syst-2018 |  | Mining of high-utility itemsets with negative utility |  | [K. Singh](https://doi.org/10.1111/exsy.12296) | 
 | New Gener. Comput.-2020 |  | Mining high-average utility itemsets with positive and negative external utilities |  | [I. Yildirim](http://dx.doi.org/10.1007/s00354-019-00078-8) | 
 | Big Data-2020 | Top-HUI | TopHUI: Top-k high-utility itemset mining with negative utility | first top-k negative HUIM | [W. Gan](https://ieeexplore.ieee.org/abstract/document/9378288) | 
 | INS-2022 | TKN | An efficient approach for discovering top-k high utility itemsets with positive or negative profits |. |[M. Ashraf](https://www.sciencedirect.com/science/article/pii/S0020025521012457)|
 | ESWA-2022 | EHMIN | EHMIN: Efficient approach of list based high-utility pattern mining with negative utility profit |. |[H. Kim](https://www.sciencedirect.com/science/article/pii/S0957417422013689)|
-|J. Intell. Fuzzy Syst.-2021 | THN | Mining of top-k high utility itemsets with negative utility 
+|J. Intell. Fuzzy Syst.-2021 | THN | Mining of top-k high utility itemsets with negative utility |. |[R. Sun](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs201357)|
 | 2022| SMNU |Support-Based High Utility Mining with Negative Utility Values|. |[Pushp](https://link.springer.com/chapter/10.1007/978-981-19-0604-6_18)|
 | 2023 | negSPUC | negSPUC: Trees-Based Single-Phase High-Utility Itemset Mining Algorithm with Negative Profit Values |  | [B. Anup. Bhat](https://link.springer.com/book/10.1007/978-981-19-5868-7#page=718)|
 
