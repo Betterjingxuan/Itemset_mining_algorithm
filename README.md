@@ -13,8 +13,8 @@ This is a list of papers about itemset mining method.
 | Source |Method | Paper | Description |Links|
 | --- | --- | --- | --- |--- |
 | Big Data-2020 | Top-HUI |  |  |  | 
-| INS-2022 | TKN | Efficient Sampling Approaches to Shapley Value Approximation |It reformulate Shapley value estimation by using complementary contributions, measuring the utility difference between a coalition and its complement. |[Paper](https://dl.acm.org/doi/abs/10.1145/3588728)|
-| ESWA-2022 | EHMIN | Approximating the Shapley Value without Marginal Contributions |It is designed to approximate the Shapley value by sampling coalitions without relying on marginal contributions |[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29225)|
+| INS-2022 | TKN | An efficient approach for discovering top-k high utility itemsets with positive or negative profits |. |[Paper](https://www.sciencedirect.com/science/article/pii/S0020025521012457)|
+| ESWA-2022 | EHMIN | EHMIN Efficient approach of list based high-utility pattern mining with negative utility profit | |[Paper](https://www.sciencedirect.com/science/article/pii/S0957417422013689)|
 | 2022| SMNU |Faster Approximation of Probabilistic and Distributional Values via Least Squares| |[Paper](https://openreview.net/pdf?id=lvSMIsztka)|
 | 2023 | negSPUC | 
 
