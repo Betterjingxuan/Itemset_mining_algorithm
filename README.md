@@ -71,7 +71,7 @@ This is a list of papers about itemset mining method.
 | PAKDD-2017| HUPNU | Mining High-Utility Itemsets with Both Positive and Negative Unit Profits from Uncertain Databases |Uncertain Databases| [W. Gan]
 | TKDE-2018| CHN| CHN: an efficient algorithm for mining closed high utility itemsets with negative utility | closed high utility itemset | [Kuldeep Singh] Retracted. |
 | Expert Syst-2018 | EHIN | Mining of high-utility itemsets with negative utility |  | [K. Singh](https://doi.org/10.1111/exsy.12296) | 
-| KBS-2017| GHUM | Efficiently mining high utility itemsets with negative unit profits| utility list | [Srikumar Krishnamoorthy]|
+| KBS-2018| GHUM | Efficiently mining high utility itemsets with negative unit profits| utility list | [Srikumar Krishnamoorthy]|
 | INS-2019| EHNL | EHNL: An efficient algorithm for mining high utility itemsets with negative utility value and length constraints| length constraints | [K. Singh] |
 | New Gener. Comput.-2020 |  | Mining high-average utility itemsets with positive and negative external utilities |  | [I. Yildirim](http://dx.doi.org/10.1007/s00354-019-00078-8) | 
 | Big Data-2020 | Top-HUI | TopHUI: Top-k high-utility itemset mining with negative utility | first top-k negative HUIM | [W. Gan](https://ieeexplore.ieee.org/abstract/document/9378288) | 
