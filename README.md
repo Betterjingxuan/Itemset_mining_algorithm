@@ -9,7 +9,7 @@ This is a list of papers about itemset mining method.
 | ESWA-2014 | - | Fast mining frequent itemsets using nodesets|  | [Z.-H. Deng](http://dx.doi.org/10.1016/j.eswa.2014.01.025) |  
 | Appl. Soft Comput.-2016 | - | DiffNodesets: An efficient structure for fast mining frequent itemsets | | [Z.-H. Deng](https://doi.org/10.1016/j.asoc.2016.01.010) |   
 | SIGMOD-2000 | - | Mining frequent patterns without candidate generation | |[J. Han](http://dx.doi.org/10.1145/335191.335372)|
-
+|DSE-2024|| Efficient Top-k Frequent Itemset Mining on Massive Data  || [X. Han]|
 ## 2.High utility itemset mining
 | Source |Method | Paper | Description |Links|
 | --- | --- | --- | --- |--- |
