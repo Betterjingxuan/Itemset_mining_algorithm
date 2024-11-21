@@ -24,6 +24,7 @@ This is a list of papers about itemset mining method.
 | Knowl. Inf. Syst-2016 | IMHUP | Indexed list-based high utility pattern mining with utility upper-bound reduction and pattern combination techniques |. |[H. Ryang](https://dl.acm.org/doi/10.1007/s10115-016-0989-x)| 
 | Knowl. Inf. Syst-2017 | mHUIMiner | mHUIMiner: A fast high utility itemset mining algorithm for sparse datasets |. |[A. Y. Peng](https://doi.org/10.1007/978-3-319-57529-2_16)| 
 | ESWA-2017 | HMiner | Hminer: Efficiently mining high utility itemsets |. |[S. Krishnamoorthy](http://dx.doi.org/10.1016/j.eswa.2017.08.028)|
+|INS-2021 | |Efficient Top-k High Utility Itemset Mining on Massive Data|prefix partition|[X. Han]|
 | KBS-2022 | UBP-Miner | Ubp-miner: An efficient bit based high utility itemset mining algorithm |. |[P. Wu](http://dx.doi.org/10.1016/j.knosys.2022.108865)|
 | TKDE-2023 | Hamm | Mining high utility itemsets using prefix trees and utility vectors |. |[J.-F. Qu](http://dx.doi.org/10.1109/TKDE.2023.3256126)|
 | INS-2024 |  | Efficient high utility itemset mining without the join operation |. |[Y. Yan](http://dx.doi.org/10.1016/j.ins.2024.121218)|
