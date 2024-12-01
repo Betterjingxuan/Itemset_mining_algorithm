@@ -28,6 +28,7 @@ This is a list of papers about itemset mining method.
 | KBS-2022 | UBP-Miner | Ubp-miner: An efficient bit based high utility itemset mining algorithm |. |[P. Wu](http://dx.doi.org/10.1016/j.knosys.2022.108865)|
 | TKDE-2023 | Hamm | Mining high utility itemsets using prefix trees and utility vectors |. |[J.-F. Qu](http://dx.doi.org/10.1109/TKDE.2023.3256126)|
 | INS-2024 |  | Efficient high utility itemset mining without the join operation |. |[Y. Yan](http://dx.doi.org/10.1016/j.ins.2024.121218)|
+|TKDE-2024 | PHA-HUIM | GPU-Based Efficient Parallel Heuristic Algorithm  for High-Utility Itemset Mining in Large  Transaction Datasets | Parallel & Heuristic|[W. Fang](https://ieeexplore.ieee.org/document/10167780?arnumber=10167780)|
 
 ### 2.1 Dynamic and Incremental Databases
 | Source |Method | Paper | Description |Links|
