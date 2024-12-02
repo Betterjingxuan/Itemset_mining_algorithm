@@ -64,8 +64,8 @@ This is a list of papers about itemset mining method.
 | Appl Math Comput.-2009 |HUINIV| An efficient algorithm for mining high utility itemsets with negative item values in large databases | first negative HUIM |[C. Chu](https://www.sciencedirect.com/science/article/pii/S009630030900561X) | 
 | Knowl. Inf. Syst-2011 | MHUI-BIT & MHUI-TID | Fast and memory efficient mining of high-utility itemsets from data streams: with and without negative item profits | mining high-utility itemsets from data streams | [K. Singh] | 
 | ESWA-2014 |TS-HOUN| On-shelf utility mining with negative item values| On-shelf utility mining | [Guo-Cheng Lan] |
-| KBS-2016 |FHN | FHN: Efficient Mining of High-Utility Itemsets with Negative Unit Profits | | [Philippe Fournier-Viger]|
-|2015 |FOSHU|FOSHU: Faster On-Shelf High Utility Itemset Mining with or without Negative Unit Profit |  | [Philippe Fournier-Viger]|
+| KBS-2016 |FHN | FHN: Efficient Mining of High-Utility Itemsets with Negative Unit Profits | | [P. Fournier-Viger]|
+|2015 |FOSHU|FOSHU: Faster On-Shelf High Utility Itemset Mining with or without Negative Unit Profit |  | [P. Fournier-Viger]|
 |2015 |UP-GNIV| UP-GNIV: an expeditious high utility pattern mining algorithm for itemsets with negative utility values ||[Kannimuthu Subramanian]|
 |2016 |HUN-Max|Mining High Utility Itemsets with Negative Utility Values in Transactional Databases|| [Priyanka D. Patil]|
 | Knowl. Inf. Syst-2017| KOSHU |An efficient algorithm for mining top-k on-shelf high utility itemsets|top-K on-shelf high utility itemset | [Thu-Lan Dam]|
@@ -88,13 +88,13 @@ This is a list of papers about itemset mining method.
 | 2023 | negSPUC | negSPUC: Trees-Based Single-Phase High-Utility Itemset Mining Algorithm with Negative Profit Values |  | [B. Anup. Bhat](https://link.springer.com/book/10.1007/978-981-19-5868-7#page=718)|
 
 ## 4.Correlated Itemset Mining  
-| Source |Method | Paper | Description |Links|
+| Source |Method | Paper | Correlation Description |Links|
 | --- | --- | --- | --- |--- |
 |ICDM workshops-2021|CHUQI-Miner|CHUQI-Miner: Mining Correlated Quantitative High Utility Itemsets|Q-itemset & Bond | [M. Nouioua](https://ieeexplore.ieee.org/document/9679886/)|
 |J. Inf. Tele.-2021| GMCHM | A General Method for mining high-Utility itemsets with correlated measures|AllConf & Bond |[N.M.Hung](https://www.tandfonline.com/doi/epdf/10.1080/24751839.2021.1937465?needAccess=true)|
-| IEEE Access-2020 |  | Mining correlated high utility itemsets in one phase |Bond |[B. Vo](http://dx.doi.org/10.1109/ACCESS.2020.2994059)|
-|J. IGPL-2020||Mining correlated high-utility itemsets using various measures|AllConf & Bond |[Philippe Fournier-Viger](https://academic.oup.com/jigpal/article/28/1/19/5700705)|
-
+| IEEE Access-2020 |CoHUI-Mine| Mining correlated high utility itemsets in one phase |Bond |[B. Vo](http://dx.doi.org/10.1109/ACCESS.2020.2994059)|
+|J. IGPL-2020| FCHM |Mining correlated high-utility itemsets using various measures|AllConf & Bond |[P. Fournier-Viger](https://academic.oup.com/jigpal/article/28/1/19/5700705)|
+|INS-2019| CoUPM |Correlated utility-based pattern mining | Kulc |[P. Fournier-Viger](https://academic.oup.com/jigpal/article/28/1/19/5700705)|
 
 ## Survey
 | Source | Paper | Description |Links|
