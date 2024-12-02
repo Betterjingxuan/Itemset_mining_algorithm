@@ -90,7 +90,10 @@ This is a list of papers about itemset mining method.
 ## 4.Correlated Itemset Mining  
 | Source |Method | Paper | Description |Links|
 | --- | --- | --- | --- |--- |
-| IEEE Access-2020 |  | Mining correlated high utility itemsets in one phase |. |[B. Vo](http://dx.doi.org/10.1109/ACCESS.2020.2994059)|
+|ICDM workshops-2021|CHUQI-Miner|CHUQI-Miner: Mining Correlated Quantitative High Utility Itemsets|Q-itemset & Bond | [M. Nouioua](https://ieeexplore.ieee.org/document/9679886/)|
+|J. Inf. Tele.-2021| GMCHM | A General Method for mining high-Utility itemsets with correlated measures|AllConf & Bond |[N.M.Hung](https://www.tandfonline.com/doi/epdf/10.1080/24751839.2021.1937465?needAccess=true)|
+| IEEE Access-2020 |  | Mining correlated high utility itemsets in one phase |Bond |[B. Vo](http://dx.doi.org/10.1109/ACCESS.2020.2994059)|
+|J. IGPL-2020||Mining correlated high-utility itemsets using various measures|AllConf & Bond |[Philippe Fournier-Viger](https://academic.oup.com/jigpal/article/28/1/19/5700705)|
 
 
 ## Survey
