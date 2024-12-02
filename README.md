@@ -91,13 +91,12 @@ This is a list of papers about itemset mining method.
 | Source |Method | Paper | Correlation Description |Links|
 | --- | --- | --- | --- |--- |
 |TKDE-2003|  |Alternative interest measures for mining associations in databases | Definitions |[Omiecinski](http://ieeexplore.ieee.org/document/1161582/)|
-|IEEE Access-2020 |CoHUI-Mine| Mining correlated high utility itemsets in one phase |Kulc|[B. Vo](http://dx.doi.org/10.1109/ACCESS.2020.2994059)|
 |J. IGPL-2020| FCHM |Mining correlated high-utility itemsets using various measures|AllConf & Bond |[P. Fournier-Viger](https://academic.oup.com/jigpal/article/28/1/19/5700705)|
 |J. Inf. Tele.-2021| GMCHM | A General Method for mining high-Utility itemsets with correlated measures|AllConf & Bond |[N.M.Hung](https://www.tandfonline.com/doi/epdf/10.1080/24751839.2021.1937465?needAccess=true)|
 |ICDM workshops-2021|CHUQI-Miner|CHUQI-Miner: Mining Correlated Quantitative High Utility Itemsets|Q-itemset & Bond | [M. Nouioua](https://ieeexplore.ieee.org/document/9679886/)|
-|IEEE Big Data-2018|CoUPM|CoUPM: Correlated Utility-based Pattern Mining|Kulc|[W. Gan](https://ieeexplore.ieee.org/document/8622242/)|
 |KBS-2018|CoHUIM|Extracting non-redundant correlated purchase behaviors by utility measure|Kulc| [W. Gan](https://linkinghub.elsevier.com/retrieve/pii/S0950705117305750)|
-|IEEE Big Data-2018 \\ INS-2019| CoUPM |CoUPM:Correlated utility-based pattern mining | Kulc |[W. Gan](https://ieeexplore.ieee.org/document/8622242/) \\ [P. Fournier-Viger](https://linkinghub.elsevier.com/retrieve/pii/S0020025519306139)|
+|IEEE Big Data-2018 & INS-2019| CoUPM |CoUPM:Correlated utility-based pattern mining | Kulc |[18-W. Gan](https://ieeexplore.ieee.org/document/8622242/) \\ [19-W. Gan](https://linkinghub.elsevier.com/retrieve/pii/S0020025519306139)|
+|IEEE Access-2020 |CoHUI-Mine| Mining correlated high utility itemsets in one phase |Kulc|[B. Vo](http://dx.doi.org/10.1109/ACCESS.2020.2994059)|
 
 ## Survey
 | Source | Paper | Description |Links|
