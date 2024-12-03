@@ -97,6 +97,8 @@ This is a list of papers about itemset mining method.
 |KBS-2018|CoHUIM|Extracting non-redundant correlated purchase behaviors by utility measure|Kulc| [W. Gan](https://linkinghub.elsevier.com/retrieve/pii/S0950705117305750)|
 |IEEE Big Data-2018 & INS-2019| CoUPM |CoUPM:Correlated utility-based pattern mining | Kulc |[18-W. Gan](https://ieeexplore.ieee.org/document/8622242/) \\ [19-W. Gan](https://linkinghub.elsevier.com/retrieve/pii/S0020025519306139)|
 |IEEE Access-2020 |CoHUI-Mine| Mining correlated high utility itemsets in one phase |Kulc|[B. Vo](http://dx.doi.org/10.1109/ACCESS.2020.2994059)|
+|ICT Res.-2023| |A Method Mining Correlation High Utility Itemsets with Negative Profits|Kulc|[Cao](https://ictmag.ictvietnam.vn/ict/article/view/1228)|
+|KBS-2024||A Method Mining Correlation High Utility Itemsets with Negative Profits|Kulc|[X. Liu](https://ictmag.ictvietnam.vn/ict/article/view/1228)|
 
 ## Survey
 | Source | Paper | Description |Links|
