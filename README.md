@@ -104,7 +104,7 @@ This is a list of papers about itemset mining method.
 
 ## 5.Local High-utility Itemset Mining 
 | Source |Method | Paper |Links|
-| --- | --- | --- | --- |--- |
+| --- | --- | --- | --- |
 |EAAI-2025| fast-LHUIM |Fast mining local high-utility itemsets |[Omiecinski]([http://ieeexplore.ieee.org/document/1161582/](https://linkinghub.elsevier.com/retrieve/pii/S0952197624021195)|
 |INS-2019| LHUIM |Mining local and peak high utility itemsets |[Omiecinski]([https://linkinghub.elsevier.com/retrieve/pii/S0020025518310284)|
 
