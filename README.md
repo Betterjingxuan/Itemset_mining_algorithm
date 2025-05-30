@@ -98,14 +98,14 @@ This is a list of papers about itemset mining method.
 |KBS-2018|CoHUIM|Extracting non-redundant correlated purchase behaviors by utility measure|Kulc| [W. Gan](https://linkinghub.elsevier.com/retrieve/pii/S0950705117305750)|
 |IEEE Big Data-2018 & INS-2019| CoUPM |CoUPM:Correlated utility-based pattern mining | Kulc |[18-W. Gan](https://ieeexplore.ieee.org/document/8622242/) \\ [19-W. Gan](https://linkinghub.elsevier.com/retrieve/pii/S0020025519306139)|
 |IEEE Access-2020 |CoHUI-Mine| Mining correlated high utility itemsets in one phase |Kulc|[B. Vo](http://dx.doi.org/10.1109/ACCESS.2020.2994059)|
-|ICInPro-2021|ECHUM|Positive Correlation Based Efficient High Utility Pattern Mining Approach| |[Ramesh, D](https://www.springerprofessional.de/en/positive-correlation-based-efficient-high-utility-pattern-mining/19983244)\\[Code](https://www.philippe-fournier-viger.com/spmf/ECHUM_correlation.php)|
+|ICInPro-2021|ECHUM|Positive Correlation Based Efficient High Utility Pattern Mining Approach| |[Ramesh, D](https://www.springerprofessional.de/en/positive-correlation-based-efficient-high-utility-pattern-mining/19983244) \\ [Code](https://www.philippe-fournier-viger.com/spmf/ECHUM_correlation.php)|
 |ICT Res.-2023| |A Method Mining Correlation High Utility Itemsets with Negative Profits|Kulc|[Cao](https://ictmag.ictvietnam.vn/ict/article/view/1228)|
 |KBS-2024||Effective approaches for mining correlated and low-average-cost patterns|Kulc low-average-cost|[X. Liu](https://www.sciencedirect.com/science/article/pii/S0950705124010104)|
 
 ## 5.Local High-utility Itemset Mining 
 | Source |Method | Paper |Links|
 | --- | --- | --- | --- |
-|EAAI-2025| fast-LHUIM |Fast mining local high-utility itemsets |[Omiecinski]([http://ieeexplore.ieee.org/document/1161582/][code](https://linkinghub.elsevier.com/retrieve/pii/S0952197624021195)|
+|EAAI-2025| fast-LHUIM |Fast mining local high-utility itemsets |[Omiecinski](https://linkinghub.elsevier.com/retrieve/pii/S0952197624021195) \\ [code](https://linkinghub.elsevier.com/retrieve/pii/S0952197624021195)|
 |INS-2019| LHUIM |Mining local and peak high utility itemsets |[Omiecinski](https://linkinghub.elsevier.com/retrieve/pii/S0020025518310284)|
 
 ## Survey
