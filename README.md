@@ -103,8 +103,8 @@ This is a list of papers about itemset mining method.
 |KBS-2024||Effective approaches for mining correlated and low-average-cost patterns|Kulc low-average-cost|[X. Liu](https://www.sciencedirect.com/science/article/pii/S0950705124010104)|
 
 ## 5.Local High-utility Itemset Mining 
-| Source |Method | Paper |Links|Code|
-| --- | --- | --- | --- |
+| Source |Method | Paper |Links | Code|
+| --- | --- | --- | --- | --- | 
 |EAAI-2025| fast-LHUIM |Fast mining local high-utility itemsets |[Song et. al](https://linkinghub.elsevier.com/retrieve/pii/S0952197624021195) | [code](https://linkinghub.elsevier.com/retrieve/pii/S0952197624021195)|
 |INS-2019| LHUIM |Mining local and peak high utility itemsets |[Fournier-Viger](https://linkinghub.elsevier.com/retrieve/pii/S0020025518310284)|[code](https://www.philippe-fournier-viger.com/spmf/index.php?link=algorithms.php)|
 
