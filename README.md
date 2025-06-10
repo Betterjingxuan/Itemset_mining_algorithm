@@ -42,7 +42,7 @@ This is a list of papers about itemset mining method.
 ### 2.2 High average-efficiency itemsets
 | Source |Method | Paper | Description |Links|
 | --- | --- | --- | --- |--- |
-|  |  |  |. |[S. Krishnamoorthy](https://doi.org/10.1016/j.knosys.2017.12.035)|
+| TKDE-2019 |  | Efficient Vertical Mining of High Average-Utility Itemsets Based on Novel Upper-Bounds | |[Truong](https://doi.org/10.1016/j.knosys.2017.12.035)|
 
 ### 2.3 High Utility Occupancy Itemset Mining 
 | Source |Method | Paper | Description |Links|
