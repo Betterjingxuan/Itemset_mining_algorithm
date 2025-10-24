@@ -113,5 +113,5 @@ This is a list of papers about itemset mining method.
 | --- | --- | --- | --- |
 | J. Intell. Fuzzy Syst.-2018 | High utility itemsets mining with negative utility value: A survey |. |[K. Singh](https://www.researchgate.net/profile/Kuldeep-Singh-122/publication/328844143_High_utility_itemsets_mining_with_negative_utility_value_A_survey/links/65223d96d717ef1293d69005/High-utility-itemsets-mining-with-negative-utility-value-A-survey.pdf)|
 |2020|Utility Mining Algorithms: A Bird’s Eye View |.| [D. Aarthi]
-|TKDE-2021| A survey of utility-oriented pattern mining|  |  [W. Gan] |
+|TKDE-2021| A survey of utility-oriented pattern mining|  |  [W. Gan](https://ieeexplore.ieee.org/abstract/document/8845637) |
 |IEEE Access-2021|A Survey of Correlated High Utility Pattern Mining |[Almoqbily](https://ieeexplore.ieee.org/document/9374911/)|
